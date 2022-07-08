@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+#React App for frontend trainee test in KODE
+
+**Plan of application development:**
+1. Create Skeleton screen - 2 hours
+    - create component with App top bar (1.5 hour)
+    - add mobile layout adaptation (0.5 hour)
+2. Create Main screen - 5 hours
+    - create component with a list of employees (2 hours)
+    - add filter and sort options (2 hours)
+    - add mobile layout adaptation (1 hour)
+3. Create Error screen - 2 hours
+4. Create Employee profile screen - 2 hours
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
