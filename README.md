@@ -1,4 +1,4 @@
-#React App for frontend trainee test in KODE
+# React App for frontend trainee test in KODE
 
 **Plan of application development:**
 1. Create Skeleton screen - 2 hours
